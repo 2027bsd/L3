@@ -56,7 +56,7 @@ pkg install realtek-re-kmod
 
 >**技巧**
 >
->如果你的 realtek 网卡仍存在断流，时有时无等情况，可以试试 [net/realtek-re-kmod198](https://www.freshports.org/net/realtek-re-kmod198/)，参见 [Bug 275882 - net/realtek-re-kmod: Problem with checksum offload since +199.00](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=275882)。
+>如果你的 Realtek 网卡仍存在断流，时有时无等情况，可以试试 [net/realtek-re-kmod198](https://www.freshports.org/net/realtek-re-kmod198/)，参见 [Bug 275882 - net/realtek-re-kmod: Problem with checksum offload since +199.00](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=275882)。
 
 ---
 
